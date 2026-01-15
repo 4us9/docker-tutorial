@@ -1,0 +1,1 @@
+Understanding how Docker works and how to run or using docker compose. 
